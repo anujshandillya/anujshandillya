@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anuj Sharma</h1>
-<h3 align="center">3⭐ on CodeChef, Passionate Front-end Developer</h3>
+<h3 align="center">Passionate Front-end Developer</h3>
 
 <img width="100%" alt="Coding" src="https://i.pinimg.com/originals/c9/18/69/c91869eaf8d12fb097ab060e891eb10a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujshandillya&label=Profile%20views&color=0e75b6&style=flat" alt="anujshandillya" /> </p>
-
-- 🔭 I’m currently working on **Sorting Visualiser**
-
-- 🌱 I’m currently learning **React, MERN, MONGODB**
 
 - 📫 How to reach me **anujsharmawork11@gmail.com**
 
