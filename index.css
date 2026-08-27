@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+    background-color: #00AD43;
+}
+
+body {
+    font-family: Arial;
+    margin: 0;
+    line-height: 1.5;
+    color: #222
+}
+
+.navbar {
+    padding: 15px 8%;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    margin-left: 20px;
+    color: #222
+}
+
+.hero,
+.section {
+    max-width: 900px;
+    margin: auto;
+    padding: 60px 20px
+}
+
+.hero {
+    min-height: 300px
+}
+
+h1 {
+    font-size: 50px;
+    margin: 10px 0
+}
+
+h2 {
+    font-size: 30px
+}
+
+.eyebrow {
+    font-size: 13px;
+    color: #fff
+}
+
+.hero-text,
+.muted {
+    color: #fde;
+    max-width: 650px
+}
+
+.actions {
+    margin-top: 20px
+}
+
+.button {
+    padding: 8px 15px;
+    border: 1px solid #333;
+    margin-right: 8px
+}
+
+.primary {
+    background: #222;
+    color: white
+}
+
+.section {
+    border-top: 1px solid #ddd
+}
+
+.card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 15px 0
+}
+
+.card-heading {
+    display: flex;
+    justify-content: space-between
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px
+}
+
+.tags span {
+    margin-right: 8px;
+    color: #555
+}
+
+.skills {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px
+}
+
+.skills div {
+    border-bottom: 1px solid #ddd;
+    padding: 10px
+}
+
+footer {
+    text-align: center;
+    border-top: 1px solid #ccc;
+    padding: 20px;
+    color: #fff;
+}
